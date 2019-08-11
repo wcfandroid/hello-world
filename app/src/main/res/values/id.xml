@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- custom left title layout -->
+    <item type="id" name="custom_layout_title">title</item>
+    <item type="id" name="custom_layout_body">body</item>
+</resources>

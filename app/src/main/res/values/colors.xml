@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 主体颜色 -->
+    <color name="background">#F2F2F2</color>
+    <color name="title">#FD5B37</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_gray">#EBEBEB</color>
+
+    <!-- 透明背景色 -->
+    <color name="transparent_background">#00000000</color>
+
+    <!-- 灰色半透明 -->
+    <color name="transparent_gray">#50000000</color>
+    <color name="transparent_gray2">#3C000000</color>
+    <color name="transparent_white">#5AFFFFFF</color>
+
+    <!-- 字体颜色 -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#999999</color>
+    <color name="text_gray_light">#666666</color>
+    <color name="text_blue">#0000CC</color>
+    <color name="text_black">#505050</color>
+    <color name="text_orange">#FFA500</color>
+    <color name="text_red">#FD5B37</color>
+    <color name="button_gray">#c8c8c8</color>
+
+    <!-- 登录 -->
+    <color name="login_text_def">#656565</color>
+    <color name="line_gray">#EBEBEB</color>
+    <color name="login_tab_sel">#F8F8F8</color>
+
+    <!-- Custom tabbar font color -->
+    <color name="tabbar_text_def">#656565</color>
+    <color name="tabbar_text_sel">#333300</color>
+
+    <!-- item 背景和点击效果 -->
+    <color name="item_select_background_color">#F8F8F8</color>
+
+    <!-- waimai -->
+    <color name="bg_liner_color">#ffcccdd1</color>
+ <!-- view liner background color -->
+    <color name="tx_color_tab_default">#ff999999</color>
+ <!-- tab 字体默认颜色 -->
+    <color name="tx_color_tab_selection">#fffa435e</color>
+ <!-- tab 字体选中颜色 -->
+    <color name="waimai_shoplist_alpha_tab_bg_color">#80ffffff</color>
+ <!-- tab 背景 -->
+    <color name="waimai_shoplist_item_filter_text_color">#ff313233</color>
+ <!-- 外卖过滤条件的字体颜色 -->
+    <color name="waimai_shoplist_popwindow_bg">#33111111</color>
+ <!-- waimai 过滤浮层容器的背景 -->
+    <color name="waimai_shoplist_filter_selected">#fffafafa</color>
+ <!-- waimai 浮层数据的背景 -->
+
+    <color name="waimai_shoptip_network_error_bg">#ffebedf0</color>
+ <!-- 外卖网咯错误背景 -->
+    <color name="network_showtip_txt_color">#ff768491</color>
+ <!-- network txt color -->
+
+
+    <!-- 确认订单 -->
+    <color name="order_textview_color_normal_right">#999</color>
+    <color name="order_textview_color_select">#FD5B37</color>
+    <color name="order_textview_color_border">#EBEBEB</color>
+    <color name="market_textview_color_select">#F1F1F1</color>
+    <color name="market_textview_color_border">#CBCBCB</color>
+    <color name="hint_color">#D2D2D2</color>
+    <color name="text_color_collect">#FFE2DB</color>
+
+    <!-- 点菜 -->
+    <color name="food_tip_backgroud">#FFFDEF</color>
+    <color name="food_shop_car_total_backgroud">#F0F0F0</color>
+    <color name="food_show_all_comment_backgroud">#FAFAFA</color>
+
+    <!-- 招商加盟 -->
+    <color name="resurce_textview_color_tab">#666666</color>
+    <color name="resurce_textview_color_content">#505050</color>
+
+    <!-- custom left title layout -->
+    <color name="custom_layout_title_bg1">#DEDEDE</color>
+    <color name="custom_layout_title_bg2">#E6E6E6</color>
+    <color name="order_state_normal">#DDDDDD</color>
+    <color name="order_state_btn_color">#FFF</color>
+    <color name="line_dotted">#AFAFAF</color>
+    <color name="shop_item_coupon_color">#F78B5C</color>
+    <color name="shop_item_pay_color">#7FC2EE</color>
+    <color name="shop_item_piao_color">#A8A3F1</color>
+
+    <!-- 店铺地图 -->
+    <color name="shop_map_address_tv_color">#EBEBEB</color>
+    <color name="cancel_save_tv_color">#FFD1BD</color>
+
+    <!-- 地址编辑 -->
+    <color name="setting_address_edit_poi_list_tv_color">#666666</color>
+    <color name="setting_address_edit_poi_line_color">#F0F0F0</color>
+    <color name="bar_line_color">#B4B4B4</color>
+    <color name="top_address_color">#FFE2DC</color>
+    <color name="dish_category_text_color">#F9461E</color>
+    <color name="order_detail_state_text_color">#333333</color>
+    <color name="order_detail_comment_text_color">#7FC2EE</color>
+
+</resources>

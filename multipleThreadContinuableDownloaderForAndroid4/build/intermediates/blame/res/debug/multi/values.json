@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 83,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 52,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 52,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 51,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 51,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 102,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 102,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 347,
+                    "endColumn": 45,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 45,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 88,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 88,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 56,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 56,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 70,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/weichangfa/AndroidStudioProjects/MyApplication/multipleThreadContinuableDownloaderForAndroid4/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 70,
+                        "endOffset": 415
+                    }
+                }
+            }
+        ]
+    }
+]
